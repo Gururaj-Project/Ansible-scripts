@@ -5,7 +5,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Gururaj-Project/Ansible-scripts.git
-   cd <your-repo>
+   cd Ansible-scripts
 2. Update hosts.ini
    Add all server IPs or hostnames you want to check.
 
